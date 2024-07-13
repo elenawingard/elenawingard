@@ -62,7 +62,7 @@ nav a:hover {
 }
 
 .striped-box {
-    width: 300px;
+    width: 3px;
     height: 1000px;
     background: linear-gradient(90deg, #FFCCE5 50%, #FFFCF5 50%);
     background-size: 15px 100%;
@@ -81,7 +81,12 @@ nav a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-
+p {
+        color: #FFCCE5
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+    
+    
 .content {
    /*  margin-left: 320px;
     padding: 20px;*/
