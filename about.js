@@ -1,4 +1,4 @@
 
 function goBack() {
-    window.location.href = 'website.html'; 
+    window.location.href = 'elenawingard.html'; 
 }
