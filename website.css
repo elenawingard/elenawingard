@@ -63,10 +63,10 @@ nav a:hover {
 
 .striped-box {
     width: 3px;
-    height: 1000px;
+    height: 5vh;
     background: linear-gradient(90deg, #FFCCE5 50%, #FFFCF5 50%);
     background-size: 15px 100%;
-  /*  display: flex;*/
+    display: flex;
     justify-content: center;
     align-items: center;
     position: absolute;
